@@ -44,7 +44,7 @@ Division: 2
 
 ## 🔗 GitHub Repository
 
-(Add your repo link here)
+https://github.com/singamsridhar/minicalculator.git
 
 ---
 
