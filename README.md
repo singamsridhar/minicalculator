@@ -52,6 +52,6 @@ Result: 15
 
 ## 👨‍💻 Author
 
-Sridhar
-CSE Student
+Sridhar,
+CSE Student,
 NC.SC.U4CSE25048
