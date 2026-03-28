@@ -34,7 +34,7 @@ It provides a graphical user interface to perform basic arithmetic operations.
 ---
 
 ## 🖥️ Sample Output
-<img width="326" height="285" alt="image" src="https://github.com/user-attachments/assets/6f924b8f-c29d-47c2-b3fa-cfb3644a1625" />
+<img width="324" height="280" alt="image" src="https://github.com/user-attachments/assets/ddbe3884-68a5-48c2-a718-4ffd172ec32a" />
 
 
 <img width="326" height="285" alt="image" src="https://github.com/user-attachments/assets/0cadcc0f-90e3-42ee-88f9-33b43366da44" />
