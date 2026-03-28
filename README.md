@@ -1,61 +1,50 @@
-# 🎌 Anime Club – HTML & CSS Project
+# 🧮 Mini Calculator – Java (OOP Project)
 
 ## 📌 Project Description
 
-This project is a simple animated website developed using HTML and CSS.
-It allows users to explore anime content in a visually attractive interface.
+This project is a simple Mini Calculator developed using Java.
+It performs basic arithmetic operations using Object-Oriented Programming concepts.
 
 ---
 
 ## 🚀 Features
 
-* Animated homepage
-* Stylish UI design
-* Anime cards layout
-* Navigation between pages
-
----
-
-## 🖼️ Screenshots
-
-### 🏠 Home Page
-
-<p align="center">
-  <img src="img1.png" width="600">
-</p>
-
-### 🎬 Anime Page
-
-<p align="center">
-  <img src="img2.png" width="300">
-  <img src="img3.png" width="300">
-  <img src="img4.png" width="300">
-</p>
-
-<p align="center">
-  <img src="img5.png" width="300">
-  <img src="img6.png" width="300">
-  <img src="img7.png" width="300">
-</p>
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Simple and efficient design
 
 ---
 
 ## 🛠️ Technologies Used
 
-* HTML
-* CSS
+* Java
+* OOP Concepts
 
 ---
 
-## 🌐 Live Website
+## 📂 Project Files
 
-https://singamsridhar.github.io/anime-club/
+* minicalculator.java
+
+---
+
+## 🖥️ Sample Output
+
+```
+Enter two numbers: 10 5
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2
+```
 
 ---
 
 ## 🔗 GitHub Repository
 
-https://github.com/singamsridhar/anime-club
+(Add your repo link here)
 
 ---
 
