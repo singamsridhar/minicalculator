@@ -34,13 +34,11 @@ It provides a graphical user interface to perform basic arithmetic operations.
 ---
 
 ## 🖥️ Sample Output
+<img width="326" height="285" alt="image" src="https://github.com/user-attachments/assets/6f924b8f-c29d-47c2-b3fa-cfb3644a1625" />
 
-```
-Enter Number 1: 10
-Enter Number 2: 5
 
-Result: 15
-```
+<img width="326" height="285" alt="image" src="https://github.com/user-attachments/assets/0cadcc0f-90e3-42ee-88f9-33b43366da44" />
+
 
 ---
 
