@@ -1,26 +1,29 @@
-# 🧮 Mini Calculator – Java (OOP Project)
+# 🧮 Mini Calculator – Java Swing Project
 
 ## 📌 Project Description
 
-This project is a simple Mini Calculator developed using Java.
-It performs basic arithmetic operations using Object-Oriented Programming concepts.
+This project is a simple Mini Calculator developed using Java Swing and Object-Oriented Programming concepts.
+It provides a graphical user interface to perform basic arithmetic operations.
 
 ---
 
 ## 🚀 Features
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Simple and efficient design
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 🧹 Clear input
+* ❌ Exit application
+* ⚠️ Error handling
 
 ---
 
 ## 🛠️ Technologies Used
 
 * Java
-* OOP Concepts
+* Swing (GUI)
+* AWT (Event Handling)
 
 ---
 
@@ -33,18 +36,17 @@ It performs basic arithmetic operations using Object-Oriented Programming concep
 ## 🖥️ Sample Output
 
 ```
-Enter two numbers: 10 5
-Addition: 15
-Subtraction: 5
-Multiplication: 50
-Division: 2
+Enter Number 1: 10
+Enter Number 2: 5
+
+Result: 15
 ```
 
 ---
 
 ## 🔗 GitHub Repository
 
-https://github.com/singamsridhar/minicalculator.git
+(Add your repo link here)
 
 ---
 
