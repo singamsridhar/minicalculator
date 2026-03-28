@@ -8,7 +8,7 @@ public class minicalculator extends JFrame implements ActionListener {
     JButton add, sub, mul, div, clear, exit;
 
     minicalculator() {
-        setTitle("Advanced Calculator 😎");
+        setTitle("minicalculator 😎");
         setSize(350, 300);
         setLayout(new FlowLayout());
 
